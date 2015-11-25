@@ -1,4 +1,4 @@
-# bookreader_title_program
+# bookreader_title
 
 This program was written to create new BookReader files and title pages for the William K. Everson Collection website. It is project-specific and will not run correctly without template files, and it must be located in the same directory as the templates. 
 
