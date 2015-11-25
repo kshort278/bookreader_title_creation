@@ -9,7 +9,7 @@
 #The program finds the correct line to write each variable too, then generates a new file.
 #The functions are makeHtmlFile, makeBR, makeTitle, user_input, and the main function.
 #Author: Kathy Short
-#Version: 1.1
+#Version: 0.1
 
 
 #function to create new html files for the BookReader for each title
